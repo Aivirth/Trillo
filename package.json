@@ -1,5 +1,5 @@
 {
-  "name": "natour",
+  "name": "trillo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aivirth/Natour.git"
+    "url": "git+https://github.com/Aivirth/Trillo.git"
   },
   "author": "Aivirth",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Aivirth/Natour/issues"
+    "url": "https://github.com/Aivirth/Trillo/issues"
   },
-  "homepage": "https://github.com/Aivirth/Natour#readme",
+  "homepage": "https://github.com/Aivirth/Trillo#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
