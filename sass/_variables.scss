@@ -35,3 +35,11 @@ Grey dark 3: #999
 
   --line: 1px solid var(--color-grey-light-2);
 }
+
+//!! SASS Variables
+
+$bp-largest: (1200 / 16) * 1em; //1200 px
+$bp-large: (1100 / 16) * 1em; //1100 px
+$bp-medium: (900 / 16) * 1em; //900 px
+$bp-small: (600 / 16) * 1em; //600px
+$bp-smallest: (500 /16) * 1em; //500px
